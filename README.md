@@ -26,7 +26,7 @@ Welcome to my GitHub — a place to explore my work, skills, and learning journe
   - Network and endpoint log analysis
 
 ➡️ All detailed investigations are stored here:  
-🔗 **[SOC Lab Portfolio](https://github.com/ugbomakyrian5-web/soc-labs-portfolio)**
+🔗 **[SOC Lab Portfolio]([https://github.com/ugbomakyrian5-web/soc-labs-portfolio](https://github.com/ugbomakyrian5-web/phishing-double-extension)**
 
 ---
 
