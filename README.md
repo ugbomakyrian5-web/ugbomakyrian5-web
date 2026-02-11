@@ -1,4 +1,4 @@
-<h1>Hi, I'm [Your Name] 👋 <br/>Aspiring SOC Analyst | Threat Detection | Incident Response</h1>
+<h1>Hi, I'm [kyrian] 👋 <br/>Aspiring SOC Analyst | Threat Detection | Incident Response</h1>
 
 <h3>🛡️ Security Operations & Investigations</h3>
 
