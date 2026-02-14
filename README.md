@@ -15,23 +15,26 @@ Welcome to my GitHub — a place to explore my work, skills, and learning journe
 ## 🚨 SOC & Cybersecurity Projects
 
 ### Alert Triage & Investigation
-- Phishing malware detection (double-extension files)  
-- Data exfiltration alerts (Zoom traffic analysis)  
-- Suspicious download / malware file analysis  
+- Phishing malware detection (double-extension files)
+- Data exfiltration alerts (Zoom traffic analysis)
+- Suspicious download / malware file analysis
 
 ### Incident Documentation
-- Writing structured SOC investigation reports  
-- Correlating alerts with MITRE ATT&CK techniques  
-- Documenting remediation and response actions  
+- Writing structured SOC investigation reports
+- Correlating alerts with MITRE ATT&CK techniques
+- Documenting remediation and response actions
 
-### Ongoing TryHackMe Labs
-- Threat detection exercises  
-- SIEM and EDR lab simulations  
-- Network and endpoint log analysis  
+### Splunk & Log Analysis
+- VPN log analysis using Splunk
+- Indexing, searching, and visualizing endpoint/network logs
+- Creating dashboards and SPL queries
+
+---
 
 ### 🔗 Labs & Repositories
 [![Phishing Lab](https://img.shields.io/badge/Phishing-Double--Extension-blue)](https://github.com/ugbomakyrian5-web/phishing-double-extension)  
-[![EDR Lab](https://img.shields.io/badge/EDR-Detection--Triage-green)](https://github.com/ugbomakyrian5-web/EDR-Detection-Triage)
+[![EDR Lab](https://img.shields.io/badge/EDR-Detection--Triage-green)](https://github.com/ugbomakyrian5-web/EDR-Detection-Triage)  
+[![Splunk VPN Lab](https://img.shields.io/badge/Splunk-VPN--Log--Analysis-orange)](https://github.com/ugbomakyrian5-web/Splunk-VPN-Log-Analysis-Lab)
 
 ---
 
@@ -43,6 +46,7 @@ Welcome to my GitHub — a place to explore my work, skills, and learning journe
 - Incident Response Documentation  
 - MITRE ATT&CK Mapping  
 - Security Monitoring  
+- Splunk Data Ingestion & SPL Queries  
 
 ---
 
@@ -61,6 +65,7 @@ Welcome to my GitHub — a place to explore my work, skills, and learning journe
 [<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:ugbomakyrian5@gmail.com)
 
 <br clear="left" />
+
 
 
 ---
