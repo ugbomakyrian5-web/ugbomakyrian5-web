@@ -26,8 +26,8 @@ Welcome to my GitHub — a place to explore my work, skills, and learning journe
   - Network and endpoint log analysis
 
 ➡️ All detailed investigations are stored here:  
-🔗  [Phishing Double-Extension Lab](https://github.com/ugbomakyrian5-web/phishing-double-extension)
-
+🔗  [Phishing Double-Extension Lab](https://github.com/ugbomakyrian5-web/phishing-double-extension) 
+     🔗 [EDR Detection Triage Lab](https://github.com/ugbomakyrian5-web/EDR-Detection-Triage)
 ---
 
 ## 🧠 Skills & Focus Areas
