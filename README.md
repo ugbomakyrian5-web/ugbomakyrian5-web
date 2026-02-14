@@ -1,33 +1,38 @@
-<h1>Hi, I'm kyrian ! 👋 <br/>Aspiring SOC Analyst | Threat Detection | Incident Response</h1>
+# Hi, I'm Kyrian! 👋  
+**Aspiring SOC Analyst | Threat Detection | Incident Response**
 
-<h3>🛡️ Security Operations & Investigations</h3>
+---
+
+## 🛡️ Security Operations & Investigations
 
 I am an early-career SOC Analyst gaining **hands-on experience in alert triage, threat investigation, and incident response**.  
 I document my findings and lab work as I progress through **realistic security exercises and TryHackMe labs**, building a portfolio of practical investigations.  
+
 Welcome to my GitHub — a place to explore my work, skills, and learning journey in cybersecurity.
 
 ---
 
 ## 🚨 SOC & Cybersecurity Projects
 
-- **Alert Triage & Investigation**
-  - Phishing malware detection (double-extension files)
-  - Data exfiltration alerts (Zoom traffic analysis)
-  - Suspicious download / malware file analysis
+### Alert Triage & Investigation
+- Phishing malware detection (double-extension files)  
+- Data exfiltration alerts (Zoom traffic analysis)  
+- Suspicious download / malware file analysis  
 
-- **Incident Documentation**
-  - Writing structured SOC investigation reports
-  - Correlating alerts with MITRE ATT&CK techniques
-  - Documenting remediation and response actions
+### Incident Documentation
+- Writing structured SOC investigation reports  
+- Correlating alerts with MITRE ATT&CK techniques  
+- Documenting remediation and response actions  
 
-- **Ongoing TryHackMe Labs**
-  - Threat detection exercises
-  - SIEM and EDR lab simulations
-  - Network and endpoint log analysis
+### Ongoing TryHackMe Labs
+- Threat detection exercises  
+- SIEM and EDR lab simulations  
+- Network and endpoint log analysis  
 
-➡️ All detailed investigations are stored here:  
-🔗  [Phishing Double-Extension Lab](https://github.com/ugbomakyrian5-web/phishing-double-extension) 
-     🔗 [EDR Detection Triage Lab](https://github.com/ugbomakyrian5-web/EDR-Detection-Triage)
+### 🔗 Labs & Repositories
+[![Phishing Lab](https://img.shields.io/badge/Phishing-Double--Extension-blue)](https://github.com/ugbomakyrian5-web/phishing-double-extension)  
+[![EDR Lab](https://img.shields.io/badge/EDR-Detection--Triage-green)](https://github.com/ugbomakyrian5-web/EDR-Detection-Triage)
+
 ---
 
 ## 🧠 Skills & Focus Areas
