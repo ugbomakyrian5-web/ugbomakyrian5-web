@@ -35,11 +35,11 @@ Welcome to my GitHub — a place to explore my work, skills, and learning journe
 
 [![Phishing Lab](https://img.shields.io/badge/Phishing-Double--Extension-blue?style=flat)](https://github.com/ugbomakyrian5-web/phishing-double-extension)
 [![Phishing Forensics](https://img.shields.io/badge/Phishing-Email%20Forensics-red?style=flat)](https://github.com/ugbomakyrian5-web/phishing-email-forensics)
+[![Phishing Emails in Action](https://img.shields.io/badge/Phishing-Emails%20in%20Action-red?style=flat)](https://github.com/ugbomakyrian5-web/Phishing-Emails-in-Action)
 [![EDR Lab](https://img.shields.io/badge/EDR-Detection--Triage-green?style=flat)](https://github.com/ugbomakyrian5-web/EDR-Detection-Triage)
 [![Splunk VPN Lab](https://img.shields.io/badge/Splunk-VPN--Log--Analysis-orange?style=flat)](https://github.com/ugbomakyrian5-web/Splunk-VPN-Log-Analysis-Lab)
 [![ELK VPN Lab](https://img.shields.io/badge/ELK-VPN--Log--Investigation-yellow?style=flat)](https://github.com/ugbomakyrian5-web/VPN-Log-Investigation-Using-Elastic-Stack-ELK-)
 [![Eviction Lab](https://img.shields.io/badge/Eviction-APT28%20MITRE%20Analysis-purple?style=flat)](https://github.com/ugbomakyrian5-web/Eviction-Lab-APT28-TTP-Mapping-Defensive-Eviction)
-[<image-card alt="Phishing Emails in Action" src="https://img.shields.io/badge/Phishing-Emails%20in%20Action-red?style=flat" ></image-card>](https://github.com/ugbomakyrian5-web/Phishing-Emails-in-Action)
 ---
 
 ## 🧠 Skills & Focus Areas
