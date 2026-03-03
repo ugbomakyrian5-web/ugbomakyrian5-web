@@ -40,6 +40,8 @@ Welcome to my GitHub — a place to explore my work, skills, and learning journe
 [![Splunk VPN Lab](https://img.shields.io/badge/Splunk-VPN--Log--Analysis-orange?style=flat)](https://github.com/ugbomakyrian5-web/Splunk-VPN-Log-Analysis-Lab)
 [![ELK VPN Lab](https://img.shields.io/badge/ELK-VPN--Log--Investigation-yellow?style=flat)](https://github.com/ugbomakyrian5-web/VPN-Log-Investigation-Using-Elastic-Stack-ELK-)
 [![Eviction Lab](https://img.shields.io/badge/Eviction-APT28%20MITRE%20Analysis-purple?style=flat)](https://github.com/ugbomakyrian5-web/Eviction-Lab-APT28-TTP-Mapping-Defensive-Eviction)
+[![Phishing Emails 3](https://img.shields.io/badge/Phishing-Emails%203-red?style=flat)](https://github.com/ugbomakyrian5-web/Phishing-Emails-3-SOC1)
+
 ---
 
 ## 🧠 Skills & Focus Areas
