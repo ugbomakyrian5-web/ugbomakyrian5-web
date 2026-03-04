@@ -42,6 +42,7 @@ Welcome to my GitHub — a place to explore my work, skills, and learning journe
 [![Eviction Lab](https://img.shields.io/badge/Eviction-APT28%20MITRE%20Analysis-purple?style=flat)](https://github.com/ugbomakyrian5-web/Eviction-Lab-APT28-TTP-Mapping-Defensive-Eviction)
 [![Phishing Emails 3](https://img.shields.io/badge/Phishing-Emails%203-red?style=flat)](https://github.com/ugbomakyrian5-web/Phishing-Emails-3-SOC1)
 [![Phishing Prevention SMTP](https://img.shields.io/badge/Phishing-Prevention%20SMTP-red?style=flat)](https://github.com/ugbomakyrian5-web/phishing-prevention-smtp-wireshark-soc1)
+[![Greenholt Phish](https://img.shields.io/badge/Greenholt%20Phish-red?style=flat)](https://github.com/ugbomakyrian5-web/the-greenholt-phish-analysis/blob/main/README.md)
 
 ---
 
