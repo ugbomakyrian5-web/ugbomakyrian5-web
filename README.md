@@ -44,6 +44,7 @@ Welcome to my GitHub — a place to explore my work, skills, and learning journe
 [![Phishing Prevention SMTP](https://img.shields.io/badge/Phishing-Prevention%20SMTP-red?style=flat)](https://github.com/ugbomakyrian5-web/phishing-prevention-smtp-wireshark-soc1)
 [![Greenholt Phish](https://img.shields.io/badge/Greenholt%20Phish-red?style=flat)](https://github.com/ugbomakyrian5-web/the-greenholt-phish-analysis/blob/main/README.md)
 [![Snapped Phishing Line](https://img.shields.io/badge/Snapped%20Phishing%20Line-red?style=flat)](https://github.com/ugbomakyrian5-web/snapped-phishing-line-analysis/blob/main/README.md)
+[![Network Traffic Analysis](https://img.shields.io/badge/Network-Traffic%20Analysis-blue?style=flat)](https://github.com/ugbomakyrian5-web/network-traffic-analysis-basics/blob/main/README.md)
 
 ---
 
