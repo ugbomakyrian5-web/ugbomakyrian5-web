@@ -46,6 +46,7 @@ Welcome to my GitHub — a place to explore my work, skills, and learning journe
 [![Snapped Phishing Line](https://img.shields.io/badge/Snapped%20Phishing%20Line-red?style=flat)](https://github.com/ugbomakyrian5-web/snapped-phishing-line-analysis/blob/main/README.md)
 [![Network Traffic Analysis](https://img.shields.io/badge/Network-Traffic%20Analysis-blue?style=flat)](https://github.com/ugbomakyrian5-web/network-traffic-analysis-basics/blob/main/README.md)
 [![Wireshark Traffic Analysis & Threat Hunting](https://img.shields.io/badge/SOC_Lab-Wireshark_Traffic_Analysis_%26_Threat_Hunting-007ACC?style=flat)](https://github.com/ugbomakyrian5-web/Wireshark-Traffic-Analysis-Threat-Hunting/blob/main/README.md)
+[![NetworkMiner Forensics Lab](https://img.shields.io/badge/SOC_Lab-NetworkMiner_Forensics_Lab-007ACC?style=flat)](https://github.com/ugbomakyrian5-web/NetworkMiner-Network-Forensics-PCAP-Analysis/blob/main/README.md)
 
 ---
 
