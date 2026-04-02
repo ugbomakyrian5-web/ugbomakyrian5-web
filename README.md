@@ -47,7 +47,7 @@ Welcome to my GitHub — a place to explore my work, skills, and learning journe
 [![Network Traffic Analysis](https://img.shields.io/badge/Network-Traffic%20Analysis-blue?style=flat)](https://github.com/ugbomakyrian5-web/network-traffic-analysis-basics/blob/main/README.md)
 [![Wireshark Traffic Analysis & Threat Hunting](https://img.shields.io/badge/SOC_Lab-Wireshark_Traffic_Analysis_%26_Threat_Hunting-007ACC?style=flat)](https://github.com/ugbomakyrian5-web/Wireshark-Traffic-Analysis-Threat-Hunting/blob/main/README.md)
 [![NetworkMiner Forensics Lab](https://img.shields.io/badge/SOC_Lab-NetworkMiner_Forensics_Lab-007ACC?style=flat)](https://github.com/ugbomakyrian5-web/NetworkMiner-Network-Forensics-PCAP-Analysis/blob/main/README.md)
-
+[![SOC Lab: Network Security Essentials](https://img.shields.io/badge/SOC_Lab-Network_Security_Essentials_Perimeter_Logs-007ACC?style=flat)](https://github.com/ugbomakyrian5-web/Network-Security-Essentials-Perimeter-Logs)
 ---
 
 ## 🧠 Skills & Focus Areas
