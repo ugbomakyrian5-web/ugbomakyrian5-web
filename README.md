@@ -50,6 +50,7 @@ Welcome to my GitHub — a place to explore my work, skills, and learning journe
 [![SOC Lab: Network Security Essentials](https://img.shields.io/badge/SOC_Lab-Network_Security_Essentials_Perimeter_Logs-007ACC?style=flat)](https://github.com/ugbomakyrian5-web/Network-Security-Essentials-Perimeter-Logs)
 [![SOC Lab: Network Discovery & Scanning Detection](https://img.shields.io/badge/SOC_Lab-Network_Discovery_%26_Scanning_Detection-007ACC?style=flat)](https://github.com/ugbomakyrian5-web/Network-Discovery-Detection)
 [![SOC Lab: Data Exfiltration Detection](https://img.shields.io/badge/SOC_Lab-Data_Exfiltration_Detection-007ACC?style=flat)](https://github.com/ugbomakyrian5-web/Data-Exfiltration-Detection-SOC)
+[![SOC Lab: MITM Attack Detection](https://img.shields.io/badge/SOC_Lab-MITM_Attack_Detection-007ACC?style=flat)](https://github.com/ugbomakyrian5-web/MITM-Attack-Detection-SOC/blob/main/README.md)
 
 ---
 
