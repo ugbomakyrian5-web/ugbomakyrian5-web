@@ -53,6 +53,7 @@ Welcome to my GitHub — a place to explore my work, skills, and learning journe
 [![SOC Lab: MITM Attack Detection](https://img.shields.io/badge/SOC_Lab-MITM_Attack_Detection-007ACC?style=flat)](https://github.com/ugbomakyrian5-web/MITM-Attack-Detection-SOC/blob/main/README.md)
 [![SOC Lab: Web Attack Detection](https://img.shields.io/badge/SOC_Lab-Web_Attack_Detection-007ACC?style=flat)](https://github.com/ugbomakyrian5-web/Web-Attack-Detection-SOC)
 [![SOC Lab: Web DDoS Detection](https://img.shields.io/badge/SOC_Lab-Web_DDoS_Detection-007ACC?style=flat)](https://github.com/ugbomakyrian5-web/detecting-web-ddos)
+[![SOC Lab: Windows Logging](https://img.shields.io/badge/SOC_Lab-Windows_Logging-007ACC?style=flat)](https://github.com/ugbomakyrian5-web/windows-logging-soc-lab)
 
 ---
 
