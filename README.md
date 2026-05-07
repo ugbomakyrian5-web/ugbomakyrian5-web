@@ -25,7 +25,7 @@ Every repo on this profile is a live investigation, not a tutorial walkthrough.
 
 ### 🌐 Web & Network Investigations
 [![Web Attack Detection](https://img.shields.io/badge/SOC_Lab-Web_Attack_Detection-007ACC?style=flat)](https://github.com/ugbomakyrian5-web/Web-Attack-Detection-SOC)
-[![Web Shell Detection](https://img.shields.io/badge/SOC_Lab-Web_Shell_Detection-007ACC?style=flat)](https://github.com/ugbomakyrian5-web/detecting-web-shells)
+[![Web Shell Detection](https://img.shields.io/badge/SOC_Lab-Web_Shell_Detection-007ACC?style=flat)](https://github.com/ugbomakyrian5-web/Web-Shell-Detection-SOC)
 [![Web DDoS Detection](https://img.shields.io/badge/SOC_Lab-Web_DDoS_Detection-007ACC?style=flat)](https://github.com/ugbomakyrian5-web/detecting-web-ddos)
 [![MITM Attack Detection](https://img.shields.io/badge/SOC_Lab-MITM_Attack_Detection-007ACC?style=flat)](https://github.com/ugbomakyrian5-web/MITM-Attack-Detection-SOC/blob/main/README.md)
 [![Data Exfiltration Detection](https://img.shields.io/badge/SOC_Lab-Data_Exfiltration_Detection-007ACC?style=flat)](https://github.com/ugbomakyrian5-web/Data-Exfiltration-Detection-SOC)
