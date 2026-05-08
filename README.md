@@ -34,8 +34,9 @@ Every repo on this profile is a live investigation, not a tutorial walkthrough.
 [![Wireshark Traffic Analysis](https://img.shields.io/badge/SOC_Lab-Wireshark_Traffic_Analysis_%26_Threat_Hunting-007ACC?style=flat)](https://github.com/ugbomakyrian5-web/Wireshark-Traffic-Analysis-Threat-Hunting/blob/main/README.md)
 [![NetworkMiner Forensics](https://img.shields.io/badge/SOC_Lab-NetworkMiner_Forensics_Lab-007ACC?style=flat)](https://github.com/ugbomakyrian5-web/NetworkMiner-Network-Forensics-PCAP-Analysis/blob/main/README.md)
 [![Network Traffic Analysis](https://img.shields.io/badge/Network-Traffic%20Analysis-blue?style=flat)](https://github.com/ugbomakyrian5-web/network-traffic-analysis-basics/blob/main/README.md)
+[![Windows Threat Detection 1](https://img.shields.io/badge/SOC_Lab-Windows_Threat_Detection_1-007ACC?style=flat)](https://github.com/ugbomakyrian5-web/windows-threat-detection-1)
 
-### 🎣 Phishing Investigations
+### 🎣 Phishing InvestigationsHere you go:
 [![Phishing Forensics](https://img.shields.io/badge/Phishing-Email%20Forensics-red?style=flat)](https://github.com/ugbomakyrian5-web/phishing-email-forensics)
 [![Phishing Emails in Action](https://img.shields.io/badge/Phishing-Emails%20in%20Action-red?style=flat)](https://github.com/ugbomakyrian5-web/Phishing-Emails-in-Action)
 [![Phishing Emails 3](https://img.shields.io/badge/Phishing-Emails%203-red?style=flat)](https://github.com/ugbomakyrian5-web/Phishing-Emails-3-SOC1)
