@@ -35,6 +35,7 @@ Every repo on this profile is a live investigation, not a tutorial walkthrough.
 [![NetworkMiner Forensics](https://img.shields.io/badge/SOC_Lab-NetworkMiner_Forensics_Lab-007ACC?style=flat)](https://github.com/ugbomakyrian5-web/NetworkMiner-Network-Forensics-PCAP-Analysis/blob/main/README.md)
 [![Network Traffic Analysis](https://img.shields.io/badge/Network-Traffic%20Analysis-blue?style=flat)](https://github.com/ugbomakyrian5-web/network-traffic-analysis-basics/blob/main/README.md)
 [![Windows Threat Detection 1](https://img.shields.io/badge/SOC_Lab-Windows_Threat_Detection_1-007ACC?style=flat)](https://github.com/ugbomakyrian5-web/windows-threat-detection-1)
+[![Windows Threat Detection 2](https://img.shields.io/badge/SOC_Lab-Windows_Threat_Detection_2-007ACC?style=flat)](https://github.com/ugbomakyrian5-web/windows-threat-detection-2/blob/main/README.md)
 
 ### 🎣 Phishing InvestigationsHere you go:
 [![Phishing Forensics](https://img.shields.io/badge/Phishing-Email%20Forensics-red?style=flat)](https://github.com/ugbomakyrian5-web/phishing-email-forensics)
