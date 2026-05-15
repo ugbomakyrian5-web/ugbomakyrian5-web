@@ -48,6 +48,7 @@ Every repo on this profile is a live investigation, not a tutorial walkthrough.
 [![Phishing Double Extension](https://img.shields.io/badge/Phishing-Double--Extension-blue?style=flat)](https://github.com/ugbomakyrian5-web/phishing-double-extension)
 
 ### 🖥️ Endpoint & SIEM Investigations
+[![SOC Lab: Linux Logging](https://img.shields.io/badge/SOC_Lab-Linux_Logging-007ACC?style=flat)](https://github.com/ugbomakyrian5-web/Linux-Logging-for-SOC)
 [![Windows Logging](https://img.shields.io/badge/SOC_Lab-Windows_Logging-007ACC?style=flat)](https://github.com/ugbomakyrian5-web/windows-logging-soc-lab)
 [![EDR Detection Triage](https://img.shields.io/badge/EDR-Detection--Triage-green?style=flat)](https://github.com/ugbomakyrian5-web/EDR-Detection-Triage)
 [![Splunk VPN Lab](https://img.shields.io/badge/Splunk-VPN--Log--Analysis-orange?style=flat)](https://github.com/ugbomakyrian5-web/Splunk-VPN-Log-Analysis-Lab)
