@@ -57,6 +57,7 @@ Every repo on this profile is a live investigation, not a tutorial walkthrough.
 
 ### 🎯 Threat Intelligence
 [![APT28 MITRE Analysis](https://img.shields.io/badge/Eviction-APT28%20MITRE%20Analysis-purple?style=flat)](https://github.com/ugbomakyrian5-web/Eviction-Lab-APT28-TTP-Mapping-Defensive-Eviction)
+[![Intro to Malware Analysis](https://img.shields.io/badge/Intro-Malware--Analysis-yellow?style=flat)](https://github.com/ugbomakyrian5-web/intro-to-malware-analysis)
 
 ---
 
